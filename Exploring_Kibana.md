@@ -16,15 +16,15 @@
 
 2. Answer the following questions:
 
-    - In the last 7 days, how many unique visitors were located in India? **248**
+    - In the last 7 days, how many unique visitors were located in India? **798**
 
-    - In the last 24 hours, of the visitors from China, how many were using Mac OSX? **68**
+    - In the last 24 hours, of the visitors from China, how many were using Mac OSX? **6**
 
-    - In the last 2 days, what percentage of visitors received 404 errors?  **2.128%** How about 503 errors? **6.383%**
+    - In the last 2 days, what percentage of visitors received 404 errors?  **4.082%** How about 503 errors? **2.041%**
 
     - In the last 7 days, what country produced the majority of the traffic on the website? **China**
 
-    - Of the traffic that's coming from that country, what time of day had the highest amount of activity? **12pm - 1 pm**
+    - Of the traffic that's coming from that country, what time of day had the highest amount of activity? **12pm - 1pm**
 
     - List all the types of downloaded files that have been identified for the last 7 days, along with a short description of each file type (use Google if you aren't sure about a particular file type).
 
@@ -39,14 +39,14 @@
       **rpm - Red Hat Package Manager**
 
 3. Now that you have a feel for the data, Let's dive a bit deeper. Look at the chart that shows Unique Visitors Vs. Average Bytes.
-     - Locate the time frame in the last 7 days with the most amount of bytes (activity). **2021-9-23 06:00**
-     - In your own words, is there anything that seems potentially strange about this activity? **87 unique visitors, for 3 hours, appears to have been a random prompt to get visitors.**
+     - Locate the time frame in the last 7 days with the most amount of bytes (activity). **09-29-2021 15:00**
+     - In your own words, is there anything that seems potentially strange about this activity? ****
 
 4. Filter the data by this event.
-     - What is the timestamp for this event? **6am**
-     - What kind of file was downloaded? **gz**
-     - From what country did this activity originate? **China**
-     - What HTTP response codes were encountered by this visitor?
+     - What is the timestamp for this event? **15:00**
+     - What kind of file was downloaded? **deb**
+     - From what country did this activity originate? **Ethiopia**
+     - What HTTP response codes were encountered by this visitor? 200, 503
 
 5. Switch to the Kibana Discover page to see more details about this activity.
      - What is the source IP address of this activity?
